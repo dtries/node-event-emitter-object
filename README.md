@@ -1,0 +1,1 @@
+# node-event-emitter-object
